@@ -17,14 +17,14 @@ Ejercicios:
 5. Beautiful Year
 
 4. Para ingresar datos sin repetición, simplemente debemos agregarlo al unordered_set
-Ejercicios: 21. Is your horsehoe...
+Ejercicios: 21. Is your horseshoe...
 
 5. Para encontrar algo en un string, podemos usar .find(), esta si no lo encuentra, retorna string::pos.
 Ejercicios:
 26. HQ9++
 
-6. Los strings no incluyen las direcciones de memoria, para hacer algo con ellas en una funcion
-debe incluir si direcciones de memoria, lo mismo pasa con sus caracteres hay que hacer referencia a cada caracter.
+6. Los strings no incluyen las direcciones de memoria, para hacer algo con ellas en una función
+debe incluir si direcciones de memoria, lo mismo pasa con sus caracteres hay que hacer referencia a cada carácter.
 Ejercicio:
 27. Petya and String
 
