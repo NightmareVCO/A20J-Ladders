@@ -1,0 +1,47 @@
+Aprendizajes:
+1. No siempre es bueno intentar las cosas, si te hablan de x, y & z, como 3 variables aparte, no es necesario
+crear un arreglo de 3 posiciones, puedes usar simplemente 3 variables separadas y hacer el arreglo puede complicar el trabajo.
+Ejercicios:
+1. Young Physicist
+16. Insomnia Cure
+
+2. Por lo general, cuando hay problemas que involucran letras o números, en vez tratar directamente
+con el numero o la letra como tal, intenta observar si simplemente se trata de que sean iguales o diferentes.
+Ejercicios:
+10. Stones On The Table
+12. Ultra Fast Mathematician
+
+3. En un while, si la condición de la que depende el while, ya retorna un booleano, utiliza la misma
+funciones como condición del while.
+Ejercicios:
+5. Beautiful Year
+
+4. Para ingresar datos sin repetición, simplemente debemos agregarlo al unordered_set
+Ejercicios: 21. Is your horsehoe...
+
+5. Para encontrar algo en un string, podemos usar .find(), esta si no lo encuentra, retorna string::pos.
+Ejercicios:
+26. HQ9++
+
+6. Los strings no incluyen las direcciones de memoria, para hacer algo con ellas en una funcion
+debe incluir si direcciones de memoria, lo mismo pasa con sus caracteres hay que hacer referencia a cada caracter.
+Ejercicio:
+27. Petya and String
+
+7. Los problemas que involucran varias entradas, se debe intentar resolver una por una.
+Ejercicio:
+19. Tram
+Club. Median Number
+
+8. El uso de los unordered_map.
+Ejercicios:
+30. Effective Approach
+
+9. Los vectores pueden iniciar con un valor mínimo.
+Ejercicios:
+30. Effective Approach
+
+10. Utilizar un vector de pares de enteros, para guardar la
+posición inicial de un valor.
+Ejercicios:
+32. Jzzhu and Children
